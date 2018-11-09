@@ -1,0 +1,17 @@
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\bin\Debug\netcoreapp2.1\Mongo_WebAPI.deps.json
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\bin\Debug\netcoreapp2.1\Mongo_WebAPI.runtimeconfig.json
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\bin\Debug\netcoreapp2.1\Mongo_WebAPI.runtimeconfig.dev.json
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\bin\Debug\netcoreapp2.1\Mongo_WebAPI.dll
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\bin\Debug\netcoreapp2.1\Mongo_WebAPI.pdb
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.csprojAssemblyReference.cache
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.RazorAssemblyInfo.cache
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.RazorAssemblyInfo.cs
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.AssemblyInfoInputs.cache
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.AssemblyInfo.cs
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.dll
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.pdb
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\bin\Debug\netcoreapp2.1\DALayer.dll
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\bin\Debug\netcoreapp2.1\DALayer.pdb
+C:\Users\Sanket\Documents\Visual Studio 2017\Projects\Mongo_WebAPI\Mongo_WebAPI\obj\Debug\netcoreapp2.1\Mongo_WebAPI.csproj.CopyComplete
